@@ -1,0 +1,109 @@
+.info-box {
+  border: 2px solid black;
+  width: 800px;
+  height: fit-content;
+  text-align: start;
+  padding: 10px;
+}
+
+.like-button {
+  background-color: green;
+  border: 1px solid black;
+  width: 80px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.edit-button {
+  background-color: blue;
+  border: 1px solid black;
+  width: 80px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.details-button {
+  background-color: green;
+  border: 1px solid black;
+  width: 100px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.adopt-button {
+  background-color: red;
+  border: 1px solid black;
+  width: 160px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.form {
+  padding: 90px;
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 1200px;
+  margin-top: 100px;
+}
+
+td,
+th {
+  border: 2px solid rgb(24, 7, 152);
+  padding: 0.9rem;
+  text-align: left;
+  background-color: rgb(163, 223, 157);
+}
+
+.create-button {
+  background-color: blue;
+  border: 1px solid black;
+  width: 160px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+
+.bluebutton{
+  background-color: antiquewhite;
+}
